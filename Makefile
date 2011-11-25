@@ -1,5 +1,5 @@
 #!/usr/bin/make -f
-# target platforms: et9000, et5000
+# target platforms: et9000, et9200, et5000, et6000
 MACHINE ?= et9000
 BUILDDIR = build-${MACHINE}
 GIT_URL = git://github.com/XTREND/openembedded.git
