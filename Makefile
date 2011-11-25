@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
-# target platform: et9000, et9200, et5000, et6000
-MACHINE ?= et9000
+# target platform: et9x00 (et9000, et9200), et5x00 (et5000), et6x00 (et6000)
+MACHINE ?= et9x00
 BUILDDIR = build-${MACHINE}
 # for a list of some other repositories have
 # a look at http://git.opendreambox.org/
