@@ -3,7 +3,7 @@
 MACHINE ?= et9000
 BUILDDIR = build-${MACHINE}
 GIT_URL = git://github.com/XTREND/openembedded.git
-GIT_BRANCH = 2.0-pre13
+GIT_BRANCH = master
 # in case you want to send pull requests or generate patches
 #GIT_AUTHOR_NAME ?= Your Name
 #GIT_AUTHOR_EMAIL ?= you@example.com
