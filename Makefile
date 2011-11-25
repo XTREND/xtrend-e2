@@ -2,7 +2,7 @@
 # target platforms: et9000, et5000
 MACHINE ?= et9000
 BUILDDIR = build-${MACHINE}
-GIT_URL = git://github.com/XTREND/xtrend-e2.git
+GIT_URL = git://github.com/XTREND/openembedded.git
 GIT_BRANCH = 2.0-pre13
 # in case you want to send pull requests or generate patches
 #GIT_AUTHOR_NAME ?= Your Name
